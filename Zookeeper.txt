@@ -1,5 +1,5 @@
 
-pauli@LAPTOP-RIQF4PUI MINGW64 /c/kafka_2.13-3.0.0
+pauli@LAPTOP-RIQXXXX MINGW64 /c/kafka_2.13-3.0.0
 $ bin/zookeeper-server-start.sh config/zookeeper.properties
 
 [2021-09-27 23:05:49,949] INFO Reading configuration from: config/zookeeper.properties (org.apache.zookeeper.server.quorum.QuorumPeerConfig)
